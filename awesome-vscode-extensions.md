@@ -1,0 +1,26 @@
+# Awesome VS Code Extensions
+
+-   [auto rename tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - Auto rename paired HTML/XML tag.
+-   [dev containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) - Open any folder or repository inside a Docker container.
+-   [docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - Adds syntax highlighting, commands, hover tips, and linting for Dockerfile and docker-compose files.
+-   [editorconfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - EditorConfig Support for Visual Studio Code.
+-   [file utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) - File Utils for Visual Studio Code.
+-   [github copilot chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat) - Chat with GitHub Copilot.
+-   [github copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) - Your AI pair programmer.
+-   [github pull requests and issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) - Pull Request and Issue Provider for GitHub.
+-   [github repositories](https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub) - Browse and clone GitHub repositories.
+-   [gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharge the Git capabilities built into Visual Studio Code.
+-   [intellicode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - AI-assisted development.
+-   [live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Launch a development local Server with live reload feature for static & dynamic pages.
+-   [markdown all in one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more).
+-   [npm intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) - Autocompletes npm modules in import statements.
+-   [paste json as code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype) - Copy JSON, paste as Go, TypeScript, C#, C++ and more.
+-   [path intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Autocompletes filenames.
+-   [prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Code formatter using prettier.
+-   [preview](https://marketplace.visualstudio.com/items?itemName=searKing.preview-vscode) - Preview markdown, reStructuredText, HTML, Jade, Pug, Mermaid files.
+-   [remote ssh](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) - Open any folder on a remote machine using SSH.
+-   [thunder client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client) - GUI based Rest API Client.
+-   [todo tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) - Show TODO, FIXME, etc. comment tags in a tree view.
+-   [versionlens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens) - Shows the latest version for each package using code lens.
+-   [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) - Icons for Visual Studio Code.
+-   [yaml](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - YAML Language Support with built-in Kubernetes syntax support.
